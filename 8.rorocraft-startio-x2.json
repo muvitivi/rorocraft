@@ -1,6 +1,6 @@
 [ {
-  "is_active" : true,
-  "top_banner" : true,
+  "is_active" : false,
+  "top_banner" : false,
   "time_interval" : 60,
   "time_after_load" : 10,
   "app_key" : "10101010011001001100000110101011100001101110111000011010101100110111001"
